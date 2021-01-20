@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Dentaku</string>
+    <string name="tV_result">=</string>
+    <string name="tV_dot">.</string>
+    <string name="tV_zero">0</string>
+    <string name="tV_persent">%</string>
+    <string name="tV_3">3</string>
+    <string name="tV_2">2</string>
+    <string name="tV_1">1</string>
+    <string name="tV_plus">+</string>
+    <string name="tV_6">6</string>
+    <string name="tV_5">5</string>
+    <string name="tV_4">4</string>
+    <string name="tV_minus">-</string>
+    <string name="tV_9">9</string>
+    <string name="tV_8">8</string>
+    <string name="tV_7">7</string>
+    <string name="tV_delite">del</string>
+    <string name="tV_c">C</string>
+    <string name="tV_x">X</string>
+    <string name="tV_devide">dev</string>
+    <string name="tV_error">er</string>
+
 </resources>
